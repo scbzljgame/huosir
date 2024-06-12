@@ -22,7 +22,7 @@ jobs:
       with:
         registry: registry.cn-hangzhou.aliyuncs.com
         username: 阿里云账号
-        password: 固定访问密码
+        password: liu5468015
         logout: false
         
     - name: Use Skopeo Tools Sync Image to Docker Hub
